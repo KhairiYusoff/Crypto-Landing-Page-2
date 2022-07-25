@@ -1,5 +1,5 @@
 # Crypto-Landing-Page-2
 
-##NFT Landing Page
+## NFT Landing Page
 
 ![myNFT](NFT.png)
